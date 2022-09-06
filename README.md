@@ -4,6 +4,11 @@
 - 💞️ I’m looking to collaborate on MERN project
 - 📫 How to reach me: leson1601@gmail.com
 
+💻 Programming Languages:
+HTMLCSSJavaScriptReactNodeJSExpressMongoDBSQLgit
+
+
+
 <!---
 sonle1601/sonle1601 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
