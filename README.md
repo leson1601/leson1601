@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
+</div>
+
 - 👋 Hi, I’m @sonle1601
 - 👀 I’m interested in Fullstack Development
 - 🌱 I’m currently learning React JS, Vue Js, Node Js.
