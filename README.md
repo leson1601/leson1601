@@ -3,7 +3,7 @@
 </div>
 
 - 👋 Hi, I’m @sonle1601
-- 👀 I’m interested in Fullstack Development
+- 👀 I’m interested in Fullstack and Mobile Development
 - 🌱 I’m currently learning React JS, Vue Js, Node Js.
 - 💞️ I’m looking to collaborate on MERN project
 - 📫 How to reach me: leson1601@gmail.com
